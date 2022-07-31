@@ -126,7 +126,7 @@
 	<a href="mailto:akhilajohnsonc@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/akhilajohnsonc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/akhila-johnson-c/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/akhilajohnsonc"><img src="https://img.icons8.com/color/344/twitter--v2.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/akhilajohnsonc"><img src="https://img.icons8.com/color/344/twitter--v2.png" width="21px" alt="Twitter"/></a>
 </p>
 
 <hr/>
