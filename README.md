@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @akhilajohnsonc
-- 👀 I’m interested in DSA, Java and Angular
-- 🌱 I’m currently learning DSA
-- 📫 Im on my workshop to build my first ever E Commerce website using Spring boot and Angular
-
-
 <h1 align="center">Hi , I'm Akhila Johnson C <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Illustrater&center=true&width=500&height=50"></a>
