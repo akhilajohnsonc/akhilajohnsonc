@@ -6,10 +6,13 @@
 
 <h1 align="center">Hi , I'm Akhila Johnson C <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Illustrater&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">A self learning software developer.Passionate about knowing how things works.</h4>
+<h4 align="center">👋A self learning software developer.Passionate about knowing how things works.👋<br>
+👀 Interested in DSA, Java and Angular<br>
+🌱 Currently learning DSA<br>
+📫 On my workshop to build my first ever E Commerce website "BugsBasket" using Spring boot and Angular</h4><br> 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akhilajohnsonc&label=Profile%20views&color=0e75b6&style=plastic" alt="akhilajohnsonc" /> </p>
 
@@ -123,10 +126,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:akhilajohnsonc@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/akhilajohnsonc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/akhila-johnson-c/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/akhilajohnsonc"><img src="https://img.icons8.com/color/344/twitter--v2.png" width="40px" alt="Twitter"/></a>
+	<a href="mailto:akhilajohnsonc@gmail.com"><img src="https://img.icons8.com/stickers/344/gmail-new.png" width="70px" alt="Gmail"/></a>
+	<a href="https://github.com/akhilajohnsonc"><img src="https://img.icons8.com/stickers/344/github.png" width="70px" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/akhila-johnson-c/"><img src="https://img.icons8.com/stickers/344/linkedin-circled.png" width="70px" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/akhilajohnsonc"><img src="https://img.icons8.com/stickers/344/twitter-circled.png" width="70px" alt="Twitter"/></a>
 </p>
 
 <hr/>
