@@ -33,7 +33,7 @@
 
 <hr/>
 
-* Credit: [akhilajohnsonc](https://github.com/akhilajohnsonc)
+* Credits: [akhilajohnsonc](https://github.com/akhilajohnsonc)
 
 
 
