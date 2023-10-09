@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilajohnsonc&label=Profile%20views&color=0e75b6&style=flat" alt="akhilajohnsonc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akhilajohnsonc" target="blank"><img src="https://img.shields.io/twitter/follow/akhilajohnsonc?logo=twitter&style=for-the-badge" alt="akhilajohnsonc" /></a> </p>
-- 🔭 I’m currently working on **📫my workshop to build my first ever E Commerce website "BugsBasket" using Spring boot and Angular**
+- 🔭 I’m currently working on 📫my workshop to build my first ever E Commerce website "BugsBasket" using Spring boot and Angular
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
